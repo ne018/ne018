@@ -50,7 +50,7 @@
       </tbody>
 </table>
 
-Wanna 💬 ? 📫 Ping me @ takamata@protonmail.com 
+wanna 💬 ? 📫 ping me @ takamata@protonmail.com 
 </div>
 
 <!--
