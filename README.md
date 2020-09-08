@@ -2,13 +2,13 @@
 
 <div align="center">
 
-### Hi there 👋, I'm a Software Developer and also a System Administrator
+### Hi there 👋, I'm a Software Developer/SysOps Administrator
 
-
+<!--
 🔭 I’m currently working as System Administrator and maintaining some up to 60+ cloud servers ... <br>some are monotlithic setup but more on microservices in production.<br>
 🌱 I’m currently learning some devops tools to maximize my productivity in CI/CD and also exploring more about security stuffs.<br>
 👯 I’m looking to collaborate on security field especially in devops.<br>
-
+-->
 #### 💻 some of my ... Tech Stack
 
 <table>
