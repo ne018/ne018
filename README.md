@@ -27,6 +27,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/codeigniter.svg">
       </td>
       <td width="14.28%" align="center">
+        <span>Yii2</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/yii2.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>Django</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
@@ -46,7 +50,7 @@
         <span>Ubuntu</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
-      <td align="center">
+      <td width="14.28%" align="center">
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
