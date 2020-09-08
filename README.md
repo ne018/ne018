@@ -1,4 +1,4 @@
-<img src="http://45.76.145.115:8080/count/tag.svg?url=https://github.com/ne018" alt="Visitors">
+<div align="center"><img src="http://45.76.145.115:8080/count/tag.svg?url=https://github.com/ne018" alt="Visitors"></div>
 
 ### Hi there 👋, I'm a Software Developer and also a System Administrator
 🔭 I’m currently working as System Administrator and maintaining some up to 60+ cloud servers. 
