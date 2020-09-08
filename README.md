@@ -31,6 +31,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
       </td>
       <td width="14.28%" align="center">
+        <span>Erlang</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/erlang.svg">
+        </td>
+      <td width="14.28%" align="center">
         <span>Ubuntu</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
@@ -38,7 +42,7 @@
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
-        <td width="14.28%" align="center">
+      <td width="14.28%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         </td>
