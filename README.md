@@ -15,6 +15,10 @@
   <tbody>
     <tr valign="top">
       <td width="14.28%" align="center">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>Bash</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
         </td>
@@ -46,14 +50,6 @@
         <span>Erlang</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/erlang.svg">
         </td>
-      <td width="14.28%" align="center">
-        <span>Ubuntu</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
     </tr>
       </tbody>
 </table>
