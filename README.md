@@ -1,6 +1,7 @@
 <img src="http://45.76.145.115:8080/count/tag.svg?url=https://github.com/ne018" alt="Visitors">
 
 ### Hi there 👋, I'm a Software Developer and also a System Administrator
+🔭 I’m currently working as System Administrator and maintaining some up to 60+ cloud servers. 
 
 <!--
 **ne018/ne018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
