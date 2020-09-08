@@ -46,6 +46,10 @@
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         </td>
+      <td width="14.28%" align="center">
+        <span>Bash</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+        </td>
     </tr>
       </tbody>
 </table>
