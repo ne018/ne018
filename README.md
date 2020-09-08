@@ -16,27 +16,27 @@
     <tr valign="top">
       <td width="14.28%" align="center">
         <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/codeigniter.svg">
       </td>
       <td width="14.28%" align="center">
         <span>Nest JS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
       <td width="14.28%" align="center">
         <span>Vue JS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
       </td>
       <td width="14.28%" align="center">
         <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
       </td>
       <td width="14.28%" align="center">
         <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
       </td>
       <td width="14.28%" align="center">
         <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
         <td width="14.28%" align="center">
         <span>Python</span><br><br><br>
