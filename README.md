@@ -9,7 +9,7 @@
 🌱 I’m currently learning some devops tools to maximize my productivity in CI/CD and also exploring more about security stuffs.<br>
 👯 I’m looking to collaborate on security field especially in devops.<br>
 
-### 👨‍💻 Tech Stack
+### 💻 Some of my Tech Stack
 
 <table>
   <tbody>
