@@ -1,4 +1,4 @@
-<div align="center"><img src="http://45.76.145.115:8080/count/tag.svg?url=https://github.com/ne018" alt="Visitors"></div>
+<div align="center"><img src="http://45.76.145.115:8080/count/tag.svg?url=https://github.com/ne018" alt="Hits"></div>
 
 <div align="center">
 
