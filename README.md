@@ -28,7 +28,7 @@
       </td>
       <td width="14.28%" align="center">
         <span>Yii2</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/yii2.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/yii.svg">
       </td>
       <td width="14.28%" align="center">
         <span>Django</span><br><br><br>
