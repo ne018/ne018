@@ -1,7 +1,7 @@
 <div align="center"><img src="http://45.76.145.115:8080/count/tag.svg?url=https://github.com/ne018" alt="Visitors"></div>
 
-<div align="center">
 ### Hi there 👋, I'm a Software Developer and also a System Administrator
+<div align="center">
 
 🔭 I’m currently working as System Administrator and maintaining some up to 60+ cloud servers ... <br>some are monotlithic setup but more on microservices in production.<br>
 🌱 I’m currently learning some devops tools to maximize my productivity in CI/CD and also exploring more about security stuffs.<br>
