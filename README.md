@@ -43,14 +43,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Swift</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Erlang</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/erlang.svg">
-        </td>
-      <td width="14.28%" align="center">
         <span>Bash</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
         </td>
