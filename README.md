@@ -46,7 +46,7 @@
         <span>Ubuntu</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
-      <td width="14.28%" align="center">
+      <td align="center">
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
