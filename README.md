@@ -23,6 +23,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         </td>
       <td width="14.28%" align="center">
+        <span>WebRTC</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webrtc.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>Yii2</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/yii.svg">
       </td>
