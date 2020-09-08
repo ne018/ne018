@@ -3,6 +3,9 @@
 ### Hi there 👋, I'm a Software Developer and also a System Administrator
 🔭 I’m currently working as System Administrator and maintaining some up to 60+ cloud servers. 
 
+
+Wanna 💬 ? 📫 Ping me @ takamata@protonmail.com 
+
 <!--
 **ne018/ne018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
