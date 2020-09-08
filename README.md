@@ -31,8 +31,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Vagrant</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
+        <span>Ubuntu</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
       <td width="14.28%" align="center">
         <span>AWS</span><br><br><br>
