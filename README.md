@@ -15,27 +15,27 @@
   <tbody>
     <tr valign="top">
       <td width="14.28%" align="center">
-        <span>Javascript</span><br><br><br>
+        <span>Codeigniter</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/codeigniter.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Nest JS</span><br><br><br>
+        <span>Django</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Vue JS</span><br><br><br>
+        <span>Vagrant</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Angular</span><br><br><br>
+        <span>Swift</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>React</span><br><br><br>
+        <span>Vagrant</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Java</span><br><br><br>
+        <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
         <td width="14.28%" align="center">
