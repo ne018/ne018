@@ -19,6 +19,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="14.28%" align="center">
+        <span>Terraform</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         </td>
@@ -27,24 +31,20 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/webrtc.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Yii2</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/yii.svg">
-      </td>
-      <td width="14.28%" align="center">
         <span>Django</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Codeigniter</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/codeigniter.svg">
+        <span>Laravel</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="14.28%" align="center">
         <span>Vagrant</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Bash</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+        <span>Vue</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
         </td>
     </tr>
       </tbody>
