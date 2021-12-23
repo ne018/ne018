@@ -3,8 +3,8 @@
 <div align="center">
 
 Hi there! 👋 👨‍💻 I’m currently working as System Administrator and maintaining some up to 60+ cloud servers ... <br>some are monotlithic setup but more on microservices in production.<br>
-🔎 I’m currently exploring more of IaC devops tools to maximize my productivity in CI/CD and also exploring more about security stuffs.<br>
-🤝 I’m looking to collaborate on security field especially in devops.<br>
+🔎 I’m currently exploring more of IaC devops tools to maximize my productivity in CI/CD and also seeking more about security stuffs.<br>
+🤝 I’m looking to friendly collaborate on security field especially in devops.<br>
 -->
 
 #### 💻 some of my tech-stacks...
