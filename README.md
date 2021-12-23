@@ -15,6 +15,18 @@
   <tbody>
     <tr valign="top">
       <td width="14.28%" align="center">
+        <span>Go</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Vue</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
@@ -25,7 +37,7 @@
       <td width="14.28%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-        </td>
+      </td>
       <td width="14.28%" align="center">
         <span>WebRTC</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webrtc.svg">
@@ -38,18 +50,6 @@
         <span>Laravel</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
-      <td width="14.28%" align="center">
-        <span>Go</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Vue</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-        </td>
     </tr>
       </tbody>
 </table>
