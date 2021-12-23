@@ -2,13 +2,11 @@
 
 <div align="center">
 
-#### Hi there 👋, I'm a poor techie guy, I love coding, do some technical stuff especially on *nix stuffs and i also do this for a living.
-
-<!--
-🔭 I’m currently working as System Administrator and maintaining some up to 60+ cloud servers ... <br>some are monotlithic setup but more on microservices in production.<br>
-🌱 I’m currently learning some devops tools to maximize my productivity in CI/CD and also exploring more about security stuffs.<br>
-👯 I’m looking to collaborate on security field especially in devops.<br>
+Hi there! 👋 👨‍💻 I’m currently working as System Administrator and maintaining some up to 60+ cloud servers ... <br>some are monotlithic setup but more on microservices in production.<br>
+🔎 I’m currently exploring more of IaC devops tools to maximize my productivity in CI/CD and also exploring more about security stuffs.<br>
+🤝 I’m looking to collaborate on security field especially in devops.<br>
 -->
+
 #### 💻 some of my tech-stacks...
 
 <table>
