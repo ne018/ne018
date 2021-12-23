@@ -39,8 +39,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Vagrant</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vagrant.svg">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
       <td width="14.28%" align="center">
         <span>Vue</span><br><br><br>
