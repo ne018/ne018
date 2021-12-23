@@ -39,6 +39,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="14.28%" align="center">
+        <span>Go</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>Docker</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
